@@ -1,0 +1,9 @@
+{	"name": "flycartinc/InputHelper",
+    "description": "Data Sanitization and Validation With WordPress",
+    "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "FlycartInput\\": "src/"
+    }
+  }
+}
