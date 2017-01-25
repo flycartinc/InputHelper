@@ -1,5 +1,5 @@
 {	
-	"name": "flycartinc/InputHelper",
+	"name": "flycartinc/inputhelper",
     	"description": "Data Sanitization and Validation With WordPress",
     	"license": "MIT",
 	"require": {
